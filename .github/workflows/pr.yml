@@ -42,7 +42,7 @@ jobs:
           server_port: 587
           secure: false
           username: hammadarfeen1990@gmail.com
-          password: newtkhohsoiozfmq
+          password: dqjjlihtyjejddxy
           subject: "Approval required for Pull Request #${{ steps.create_pr.outputs.pull-request-number }}"
           body: |
             A new Pull Request has been created.

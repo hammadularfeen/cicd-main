@@ -55,7 +55,7 @@ jobs:
         server_port: 587
         secure: false
         username: hammadarfeen1990@gmail.com
-        password: newtkhohsoiozfmq
+        password: dqjjlihtyjejddxy
         subject: "Deployment Notification - Business Logo Design"
         body: |
           The deployment to the server has been successfully completed.
